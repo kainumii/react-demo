@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>First React Demo</h1>
+      <h1>First React-Redux Demo </h1>
     </div>
   );
 }
