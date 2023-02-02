@@ -3,7 +3,8 @@ function App() {
     <div>
       <h1>First React Demo</h1>
       <p>Just testing ..</p>
-	  <p>Just testing ..</p>
+      <p>Just testing ..</p>
+      <p>Just testing ..</p>
     </div>
   );
 }
